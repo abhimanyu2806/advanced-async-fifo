@@ -1,0 +1,22 @@
+# Vivado generated files
+.Xil/
+.cache/
+.hw/
+.ip_user_files/
+.runs/
+.sim/
+
+# Simulation outputs
+*.vvp
+*.vcd
+*.wdb
+*.fst
+
+# Log and journal files
+*.log
+*.jou
+
+# Editor / OS files
+.vscode/
+.DS_Store
+Thumbs.db
